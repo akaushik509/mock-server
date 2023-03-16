@@ -1,4 +1,17 @@
 {
+  "users":[],
+  "hotels":[
+    {
+    "category": "Family",
+    "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+    "type_of_room": "AC",
+    "bed_type": "Double",
+		"no_of_persons":"2",
+		"capacity":"3",
+		"cost":"4000",
+		"booked":false
+  }
+  ],
     "restaurant":[
         {
             "image":"https://img.sndimg.com/food/image/upload/fl_progressive,c_fill,q_80,h_349,w_621/v1/img/recipes/10/18/23/psD62yNNTNaI33cF7zs6_Fresh%20fruit%20tart%20101823-7.jpg",
@@ -1570,7 +1583,6 @@
         ]
       }
     ],
-    
   "WheyProtien": [
     {
       "active": true,
